@@ -1,7 +1,13 @@
 
-img{
-    width: 200px; 
-    height: 200px;
+
+body{
+
+    background-color: rgb(252, 248, 252);
+}
+
+    img{
+    width: 280px; 
+    height: 280px;
     
     
 
@@ -13,11 +19,13 @@ text-align: center;
 header{
     color: violet;
     text-align: center;
+    padding-left: 10px;
     
 }
-h4{
+h2{
     color: thistle;
     text-align: center;
+    padding-left: 15px;
 }
 
   
@@ -25,11 +33,21 @@ menu{
     text-align: center;
     margin: auto;
     color: violet;
+    padding-left: 25px;
 }
 
 
-
-
+.img1 ul{
+    text-align: center;
+    margin: auto;
+    color: violet;
+    list-style-type: circle;
+    padding-left: 46%;   
+    
+}
+.img1 li{
+    padding-right: 83%;
+}
 
 
 footer{
